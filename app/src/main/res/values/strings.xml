@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MAD4th</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password\n</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register\n</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="cick_to_register">Cick to Register</string>
+    <string name="logout">Logout\n</string>
+</resources>

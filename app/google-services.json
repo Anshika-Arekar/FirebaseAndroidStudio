@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193362037545",
+    "project_id": "loginregisterfirebase-4ae1e",
+    "storage_bucket": "loginregisterfirebase-4ae1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193362037545:android:5691971fcb6d7d3097c538",
+        "android_client_info": {
+          "package_name": "com.example.mad4th"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJvtzoPY5WMwPKD31F_lvLu5kGCXZ4gkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
